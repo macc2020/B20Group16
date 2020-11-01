@@ -3,6 +3,7 @@ public class LastGitHubClass {
 
 
         System.out.println("What a wonderful Day today!");
+        System.out.println("I learned a lot about Git and GitHub");
 
 
     }
